@@ -1,0 +1,19 @@
+.intro {
+   font-size :100px;
+}
+#showpage {
+  font : red
+}
+body {
+       background-color: aqua
+}
+.class div {
+  background-color: beige;
+}
+.second {
+  color: blue
+}
+p {
+   font-weight: normal;
+   font-size: 50px;
+}
